@@ -10,15 +10,15 @@
 
 [![Sunday Briefing](https://img.shields.io/badge/Sunday_Briefing-Subscribe-blue)](https://data4sci.ck.page/8a51c452bc)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/CoVID19/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/CoVID19/main)
 
 # Understanding COVID-19 with Pandas and NetworkX
 
 - Jupyter notebooks includes all the code used to generate the figures in the blog posts. Run the code online using  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/CoVID19/main)
 
-- [EpiModel.py](https://github.com/DataForScience/CoVID19/blob/master/EpiModel.py) - Python module encapsulates all the code necessary to numerically implement arbitrary compartmental epidemic models
+- [EpiModel.py](https://github.com/DataForScience/CoVID19/blob/main/EpiModel.py) - Python module encapsulates all the code necessary to numerically implement arbitrary compartmental epidemic models
 
-- [NetworkEpiModel.py](https://github.com/DataForScience/CoVID19/blob/master/NetworkEpiModel.py) - Python module encapsulates all the code necessary to numerically implement arbitrary epidemic models on networks\
+- [NetworkEpiModel.py](https://github.com/DataForScience/CoVID19/blob/main/NetworkEpiModel.py) - Python module encapsulates all the code necessary to numerically implement arbitrary epidemic models on networks\
 
 - See [Epidemic Modeling Reading List](bgoncalves.medium.com/list/epidemiology-101-185b95a0f345) for more information
 
