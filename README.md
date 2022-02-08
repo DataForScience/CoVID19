@@ -20,7 +20,7 @@
 
 - [EpiModel.py](https://github.com/DataForScience/CoVID19/blob/main/EpiModel.py) - Python module encapsulates all the code necessary to numerically implement arbitrary compartmental epidemic models
 
-- [NetworkEpiModel.py](https://github.com/DataForScience/CoVID19/blob/main/NetworkEpiModel.py) - Python module encapsulates all the code necessary to numerically implement arbitrary epidemic models on networks\
+- [NetworkEpiModel.py](https://github.com/DataForScience/CoVID19/blob/main/NetworkEpiModel.py) - Python module encapsulates all the code necessary to numerically implement arbitrary epidemic models on networks
 
 - See [Epidemic Modeling Reading List](bgoncalves.medium.com/list/epidemiology-101-185b95a0f345) for more information
 
