@@ -14,7 +14,7 @@
 
 # Understanding COVID-19 with Pandas and NetworkX
 
-- Jupyter notebooks includes all the code used to generate the figures in the blog posts. Run the code online using  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/CoVID19/master)
+- Jupyter notebooks includes all the code used to generate the figures in the blog posts. Run the code online using  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/CoVID19/main)
 
 - [EpiModel.py](https://github.com/DataForScience/CoVID19/blob/master/EpiModel.py) - Python module encapsulates all the code necessary to numerically implement arbitrary compartmental epidemic models
 
