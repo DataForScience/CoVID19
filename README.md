@@ -24,4 +24,8 @@
 
 - See [Epidemic Modeling Reading List](bgoncalves.medium.com/list/epidemiology-101-185b95a0f345) for more information
 
-Be kept put to date on all things Machine Learning and Data Science right in your mail box. Sign up to [The Sunday Briefing](https://data4sci.com/newsletter) newsletter: https://data4sci.com/newsletter
+Be kept put to date on all things Machine Learning and Data Science right in your mail box. Sign up to The Sunday Briefing newsletter
+
+<p align="center">
+<a href='https://data4sci.ck.page/8a51c452bc' alt='Sunday Briefing Newsletter'><img src='data/newsletter.png' width=500></a>
+</p>
