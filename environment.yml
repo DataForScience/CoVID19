@@ -1,0 +1,11 @@
+dependencies:
+  - watermark==2.1.0
+  - wget==3.2
+  - networkx==2.5
+  - scipy==1.6.1
+  - tqdm==4.62.0
+  - basemap==1.2.1
+  - numpy==1.19.2
+  - pandas==1.1.3
+  - Cartopy==0.18.0
+  - matplotlib==3.3.2
